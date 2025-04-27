@@ -1,0 +1,15 @@
+﻿{
+  "resourceName": "contentTable",
+  "tableName": "contentTable",
+  "partitionKeyName": "id",
+  "partitionKeyType": "S",
+  "sortKeyName": "createdAt",
+  "sortKeyType": "S",
+  "gsi": [
+    {
+      "name": "userIndex",
+      "partitionKeyName": "userId",
+      "partitionKeyType": "S"
+    }
+  ]
+}

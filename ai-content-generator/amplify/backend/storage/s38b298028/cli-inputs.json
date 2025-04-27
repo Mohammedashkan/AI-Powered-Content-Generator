@@ -1,0 +1,12 @@
+{
+  "resourceName": "s38b298028",
+  "policyUUID": "8b298028",
+  "bucketName": "aicontentgeneratorf21e295fcf944a7bb5f944050c0c2",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "Devfunction10",
+  "groupAccess": {}
+}

@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamobdev10",
+  "tableName": "dynamobdev10",
+  "partitionKey": {
+    "fieldName": "apidb",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

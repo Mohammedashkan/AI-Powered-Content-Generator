@@ -1,0 +1,37 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aicontentgenerator-dev-8eca6-authRole",
+      "UnauthRoleArn": "arn:aws:iam::330545227947:role/amplify-aicontentgenerator-dev-8eca6-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::330545227947:role/amplify-aicontentgenerator-dev-8eca6-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aicontentgenerator-dev-8eca6-deployment",
+      "UnauthRoleName": "amplify-aicontentgenerator-dev-8eca6-unauthRole",
+      "StackName": "amplify-aicontentgenerator-dev-8eca6",
+      "StackId": "arn:aws:cloudformation:us-east-1:330545227947:stack/amplify-aicontentgenerator-dev-8eca6/7ba6daa0-2325-11f0-afe1-0affe087abbf",
+      "AmplifyAppId": "dcn4xudlhpvxe",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-aicontentgenerator-dev-8eca6-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "aicontentgenerator4dca48b2": {}
+      },
+      "function": {
+        "Devfunction10": {
+          "deploymentBucketName": "amplify-aicontentgenerator-dev-8eca6-deployment",
+          "s3Key": "amplify-builds/Devfunction10-782b65444e494856786e-build.zip"
+        }
+      },
+      "storage": {
+        "dynamobdev10": {},
+        "s38b298028": {}
+      },
+      "api": {
+        "api925f3beb": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
